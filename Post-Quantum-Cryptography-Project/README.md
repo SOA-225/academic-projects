@@ -16,11 +16,11 @@ All project results and analyses are presented in a series of **Jupyter notebook
 ***
 
 ## Project Team
-- Stefan Tischkin
-- Sher Omar Abdi
-- Jason Bell
-- Alexander Bounnhong
-- Kristina Cutler
+- Stefan
+- Shero
+- Jason
+- Alexander
+- Kristina
 
 **Technische Hochschule Nürnberg Georg Simon Ohm**
 
