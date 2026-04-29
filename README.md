@@ -6,20 +6,47 @@ This repository contains selected Computer Science projects with a focus on Cybe
 
 ## Projects
 
-### 1. Post-Quantum Cryptography Performance Analysis
-A university project analyzing performance aspects of post-quantum cryptographic algorithms.
+### 1. Post-Quantum Cryptography Project
+This project focuses on understanding Post-Quantum Cryptography and comparing selected PQC mechanisms with classical cryptographic approaches. The project includes research, evaluation, documentation, and a proof of concept for PDF encryption using a hybrid approach.
 
-### 2. Network Security Lab
-A practical lab project covering network segmentation, firewall rules, Linux basics, and security hardening.
+**Key Topics:**
 
-### 3. Software Security Labs
+- Post-Quantum Cryptography
+- Classical vs. post-quantum cryptographic approaches
+- PQC signatures
+- Key Encapsulation Mechanisms
+- AES-based encryption
+- Performance comparison
+- Documentation and result analysis
+
+### 2. Software Security Labs
 Educational exercises focused on common software vulnerabilities, secure coding, and mitigation techniques.
+This project focuses on understanding software vulnerabilities and security mechanisms. The practical part demonstrates how buffer overflow vulnerabilities can occur in controlled lab environments and how such vulnerabilities can be mitigated.
 
-### 4. Java University Projects
+**Key Topics:**
+
+- Software Security
+- Buffer Overflow basics
+- Secure coding principles
+- Vulnerability analysis
+- Security mitigations
+- Educational lab environment
+
+### 3. Java University Projects
 Selected Java projects from my Computer Science studies, including OOP, design patterns, and concurrency.
 
-### 5. VR Language Learning Prototype
-A Unity-based VR prototype for interactive vocabulary learning.
+### 4. VR Language Learning Prototype
+
+This project is a Virtual Reality application for language learning. The goal is to support vocabulary learning through interactive object-based learning in a VR environment for German and Chinese.
+
+**Key Topics:**
+
+- Unity development
+- Virtual Reality
+- Interactive learning
+- Language learning
+- User interaction
+- Agile project work
 
 ## About Me
 
